@@ -145,7 +145,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/aries/proprietary/lib/libmmcamera_wavelet_lib.so:system/lib/libmmcamera_wavelet_lib.so \
     vendor/xiaomi/aries/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
     vendor/xiaomi/aries/proprietary/lib/libmmstillomx.so:system/lib/libmmstillomx.so \
-    vendor/xiaomi/aries/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so
+    vendor/xiaomi/aries/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
+    vendor/xiaomi/aries/proprietary/lib/libstlport.so:system/lib/libstlport.so
 
 # GPS
 PRODUCT_COPY_FILES += \
